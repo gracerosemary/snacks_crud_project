@@ -1,6 +1,6 @@
 # Django CRUD / Snacks
 
-PR link: 
+PR link: https://github.com/gracerosemary/snacks_crud_project/pull/1  
 
 **Author**: Grace Choi
 **Version**: 1.0.0 
